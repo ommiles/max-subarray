@@ -23,5 +23,5 @@ maxSubArray([2, 3], 3); // null
 
 // Given an array of integers and a number,
 // write a function called maxSubarraySum,
-// which finds the maximum sum contiguous subarray
+// which finds the maximum sum of a subarray
 // with the length of the number passed to the function.
